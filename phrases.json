@@ -1,0 +1,83 @@
+{
+    "welcome_0": "Bienvenido a Español Bonito, ¿Que te parece si empezamos con una lección de entrenemiento?, recuerda que también puedes pedirme ayuda.",
+
+    "welcome_1": "Español Bonito está aquí para mejorar el idioma que hablamos, ¿quieres empezar la lección hoy?",
+
+    "welcome_2": "Empieza a mejorar tu español con un entrenamiento rápido. ¿Empezamos?",
+
+    "logrosinicio1": "La práctica hace al maestro.",
+
+
+    "logros": "Tú estás en el nivel {{ level }}, tú puntaje general en Bla Bla es de {{ score }}, y tu última medalla alcanzada ha sido {{ badge }}",
+
+    "logroscierre1": "¡Sigue así! de seguro todavía puedes con otra lección.",
+
+    "logroscierre2": "¿Has intentado leer 15 minutos al día? ¡Eso podría ayudarte a mejorar!",
+
+    "logroscierre3": "¡Felicidades!",
+
+
+    "exam": "Empecemos con la evaluación",
+
+    "dc": "Empecemos con el reto diario",
+
+    "training_0": "¡Mucho éxito!",
+
+    "training_1":"",
+
+    "training_2":"",
+
+    "training_3":"",
+
+    "ayuda_0": "Te ayudaré un poco en como usar la skill. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma. ¿Con qué empezamos?",
+
+    "ayuda_1": "Puedo hacer muchas cosas. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma. ¿Qué te gustaría hacer?",
+
+    "ayuda_2": "No te preocupes, yo te explicaré que hacer. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma. ¿Cúal quisieras explorar?",
+
+    "goodbye": "Que tengas un buen día.",
+
+    "logrosinicio1": "La práctica hace al maestro.",
+
+    "logrosinicio2":"",
+
+    "logrosinicio3":"",
+
+    "logrosinicio4":"",
+
+    "logrosinicio5":"",
+
+
+    "logros": "Tú estás en el nivel {{ level }}, tú puntaje general en Bla Bla es de {{ score }}, y tu última medalla alcanzado ha sido {{ badge }}.",
+
+    "triviasucces_0":"elegiste la respuesta correcta",
+
+    "triviasucces_1":"Muy bien, sigue así",
+
+    "triviasucces_2":"Respuesta correcta",
+
+    "triviasucces_3":"Acertaste",
+
+    "triviasucces_4":"Bien, lo has logrado",
+
+    "triviasucces_5":"Esa es la respuesta",
+
+    "triviasucces_6":"elegiste la respuesta correcta",
+
+    "triviafail_0":"Esa no es, intenta con la siguiente",
+
+    "triviafail_1":"Uy, parece que te has equivocado",
+
+    "triviafail_2":"Error, intentemos con otra",
+
+    "triviafail_3":"No es correcto",
+
+    "triviafail_4":"Fallaste, te recuperas en la siguiente",
+
+
+    "ayuda1": "No te preocupes, yo te explicaré que hacer. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma.",
+
+
+
+
+}

@@ -1,0 +1,118 @@
+#Frases de apertura por primera vez
+
+awake: Hola, soy bla bla, la forma más facil de mejorar tú comunicación, redacción y escritura. Primeramente, quisiera saber, ¿hasta que nivel has estudiado?.
+
+welcome: Bienvenido, es un gusto saludarte, ¿Que te parece si empezamos con una lección de entrenemiento?, recuerda que también puedes pedirme ayuda.
+
+#Frases de apertura por primera vez
+
+awake: Hola, soy Español Bonito, la forma más facil de mejorar tú comunicación, redacción y escritura. Primeramente, quisiera saber, ¿hasta que nivel has estudiado?.
+
+welcome_0: Bienvenido a Español Bonito, ¿Que te parece si empezamos con una lección de entrenemiento?, recuerda que también puedes pedirme ayuda.
+
+welcome_1: Español Bonito está aquí para mejorar el idioma que hablamos, ¿quieres empezar la lección hoy?
+
+welcome_2: Empieza a mejorar tu español con un entrenamiento rápido. ¿Empezamos?
+
+#Frases de la intencion RecordsIntent
+logrosinicio1: La práctica hace al maestro.
+
+
+logros: Tú estás en el nivel {{ level }}, tú puntaje general en Bla Bla es de {{ score }}, y tu última medalla alcanzada ha sido {{ badge }}.
+
+logroscierre1: ¡Sigue así! de seguro todavía puedes con otra lección.
+
+logroscierre2: ¿Has intentado leer 15 minutos al día? ¡Eso podría ayudarte a mejorar!
+
+logroscierre3: ¡Felicidades!
+
+
+#Frases de la intencion ExamIntent
+exam: Empecemos con la evaluación
+#Frases de la intencion DailyChallengeIntent
+
+dc: Empecemos con el reto diario
+#Frases de la intencion TrainingIntent
+
+training_0: ¡Mucho éxito!
+
+training_1:
+
+training_2:
+
+training_3:
+
+#Frases de la intencion AMAZON.HelpIntent
+ayuda_0: Te ayudaré un poco en como usar la skill. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma.
+
+ayuda_1: Puedo hacer muchas cosas. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma.
+
+ayuda_2: No te preocupes, yo te explicaré que hacer. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma.
+
+goodbye: Que tengas un buen día.
+
+
+round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+
+win: Good job!
+
+lose: Sorry, that's the wrong answer.
+#Frases de la intencion RecordsIntent
+logrosinicio1: La práctica hace al maestro.
+
+logrosinicio2:
+
+logrosinicio3:
+
+logrosinicio4:
+
+logrosinicio5:
+
+logros: Tú estás en el nivel {{ level }}, tú puntaje general en Bla Bla es de {{ score }}, y tu última medalla alcanzado ha sido {{ badge }}.
+
+logroscierre1: ¡Sigue así! de seguro todavía puedes con otra lección.
+
+logroscierre2: ¿Has intentado leer 15 minutos al día? ¡Eso podría ayudarte a mejorar!
+
+logroscierre3: ¡Felicidades!
+
+logroscierre4:
+
+logroscierre5:
+
+#Frases de la intencion ExamIntent
+
+#Frases de la intencion DailyChallengeIntent
+
+#Frases de la intencion TrainingIntent
+
+#Frases de la intencion AMAZON.HelpIntent
+
+ayuda1: No te preocupes, yo te explicaré que hacer. Puedes pedirme un entrenemiento para poder mejorar en lenguas, si te sientes lo suficientemente preparado puedes hacer una evaluación para acceder a un nivel más retante. También puedes preguntarme por tus logros para saber cuales son los últimos que has logrado. Y si te sientes aventurero, puedes hacer el reto diario para mejorar tú idioma.
+
+ayuda2:
+
+ayuda3:
+
+## PREGUNTAS ###
+level_1_question_1:
+
+level_1_question_2:
+
+level_1_question_3:
+
+level_1_question_4:
+
+level_1_question_5:
+
+level_1_question_6:
+
+level_1_question_7:
+
+level_1_question_1:
+
+round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+
+win: Good job!
+
+lose: Sorry, that's the wrong answer.
